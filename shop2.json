@@ -1,0 +1,42 @@
+[
+  {
+    "id": 13,
+    "name": "Cardigan and jeans",
+    "img": "https://images.unsplash.com/photo-1614899483742-63d5d9a528c1?q=80&w=1986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 14,
+    "name": "Cardigan and skirt",
+    "img": "https://images.unsplash.com/photo-1614899452872-05a913603d6a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 15,
+    "name": "Knit and jeans",
+    "img": "https://images.unsplash.com/photo-1607735296005-42b5b988d584?q=80&w=1941&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 16,
+    "name": "T-shirt and jeans",
+    "img": "https://images.unsplash.com/photo-1607382007923-6ba0d39f8617?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 17,
+    "name": "Knit and skirt",
+    "img": "https://images.unsplash.com/photo-1614899550286-2dd27acc9f26?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 18,
+    "name": "Sleeveless and jeans",
+    "img": "https://images.unsplash.com/photo-1629929470331-c4f8656be70f?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 19,
+    "name": "Jumpsuit",
+    "img": "https://images.unsplash.com/photo-1635108488611-987913eb44af?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 20,
+    "name": "Stripe and jeans",
+    "img": "https://images.unsplash.com/photo-1670258880119-81e5210bcfe6?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]
