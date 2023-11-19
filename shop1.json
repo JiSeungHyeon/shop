@@ -1,15 +1,15 @@
 [
   {
+    "id": 16,
+    "name": "T-shirt and jeans",
+    "price": 22000,
+    "img": "https://images.unsplash.com/photo-1607382007923-6ba0d39f8617?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
     "id": 0,
     "name": "Flower",
     "price": 12000,
     "img": "https://images.unsplash.com/photo-1687996345025-34b478b98546?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "id": 1,
-    "name": "Pink",
-    "price": 12000,
-    "img": "https://images.unsplash.com/photo-1670258880233-ad36f08cf1a4?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 2,
@@ -24,23 +24,18 @@
     "img": "https://images.unsplash.com/photo-1670258880125-b1d5c9a47b0c?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
+    "id": 14,
+    "name": "Cardigan and skirt",
+    "price": 18000,
+    "img": "https://images.unsplash.com/photo-1614899452872-05a913603d6a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
     "id": 4,
     "name": "Frill",
     "price": 17000,
     "img": "https://images.unsplash.com/photo-1670258880225-48ccaecaea63?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
-  {
-    "id": 5,
-    "name": "Off-shoulder",
-    "price": 12000,
-    "img": "https://images.unsplash.com/photo-1658538842868-e7d782379de7?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "id": 6,
-    "name": "Ribbon",
-    "price": 12000,
-    "img": "https://images.unsplash.com/photo-1641155785166-d5bbdb1545f2?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
+
   {
     "id": 7,
     "name": "Mini",
@@ -48,33 +43,15 @@
     "img": "https://images.unsplash.com/photo-1635108456032-e987cf1e78c8?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "id": 8,
-    "name": "Mini black",
-    "price": 12000,
-    "img": "https://images.unsplash.com/photo-1629929795704-eba6e2875f15?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "id": 17,
+    "name": "Knit and skirt",
+    "price": 18000,
+    "img": "https://images.unsplash.com/photo-1614899550286-2dd27acc9f26?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "id": 9,
-    "name": "Sleeveless",
-    "price": 12000,
-    "img": "https://images.unsplash.com/photo-1626453746517-dc11ece8995c?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "id": 10,
-    "name": "Beige",
-    "price": 16000,
-    "img": "https://images.unsplash.com/photo-1624759314989-1d1ae62a6980?q=80&w=1971&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "id": 11,
-    "name": "Puff",
-    "price": 12000,
-    "img": "https://images.unsplash.com/photo-1622766438591-999b56d204c8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "id": 12,
-    "name": "Check",
-    "price": 14000,
-    "img": "https://images.unsplash.com/photo-1615838641651-488eee8cfae8?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "id": 20,
+    "name": "Stripe and jeans",
+    "price": 20000,
+    "img": "https://images.unsplash.com/photo-1670258880119-81e5210bcfe6?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
