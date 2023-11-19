@@ -3,30 +3,40 @@
     "id": 8,
     "name": "Mini black",
     "price": 12000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1629929795704-eba6e2875f15?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 12,
     "name": "Check",
     "price": 14000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1615838641651-488eee8cfae8?q=80&w=1952&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 9,
     "name": "Sleeveless",
     "price": 12000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1626453746517-dc11ece8995c?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 10,
     "name": "Beige",
     "price": 16000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1624759314989-1d1ae62a6980?q=80&w=1971&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 11,
     "name": "Puff",
     "price": 12000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1622766438591-999b56d204c8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
 
@@ -34,12 +44,16 @@
     "id": 18,
     "name": "Sleeveless and jeans",
     "price": 19000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1629929470331-c4f8656be70f?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 19,
     "name": "Jumpsuit",
     "price": 19000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1635108488611-987913eb44af?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]

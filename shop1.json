@@ -3,30 +3,40 @@
     "id": 0,
     "name": "Flower",
     "price": 12000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1687996345025-34b478b98546?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 2,
     "name": "White",
     "price": 11000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1670258880117-a4d13ba778d3?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 3,
     "name": "Black",
     "price": 12000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1670258880125-b1d5c9a47b0c?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 14,
     "name": "Cardigan and skirt",
     "price": 18000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1614899452872-05a913603d6a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 4,
     "name": "Frill",
     "price": 17000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1670258880225-48ccaecaea63?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
 
@@ -34,18 +44,24 @@
     "id": 7,
     "name": "Mini",
     "price": 15000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1635108456032-e987cf1e78c8?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 17,
     "name": "Knit and skirt",
     "price": 18000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1614899550286-2dd27acc9f26?q=80&w=1996&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "id": 20,
     "name": "Stripe and jeans",
     "price": 20000,
+    "info": "In aliquam lacus nec arcu ornare porta. Quisque accumsan blandit ligula, consequat vestibulum est interdum vitae. Donec a consequat lorem. Integer magna odio, aliquam eu pellentesque ac, aliquam at orci.",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut semper elit sit amet turpis lobortis, vitae vestibulum ante ullamcorper. Duis ultricies elementum sem id porta. Nullam eget tempus neque. Curabitur at bibendum justo. Quisque elit lectus, molestie eu pharetra ut, condimentum sed quam. Aenean ligula nisl, consequat ut placerat eget, sollicitudin sed ex. Suspendisse vehicula enim dolor, nec suscipit urna vulputate sed. Fusce et nisi nec nunc mattis scelerisque. Mauris sagittis leo tellus, sed congue orci elementum in.",
     "img": "https://images.unsplash.com/photo-1670258880119-81e5210bcfe6?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
